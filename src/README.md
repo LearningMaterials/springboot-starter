@@ -4,7 +4,7 @@
   本题要求通过完善Spring boot`build.gradle`文件里面的配置类成功启动项目以及成功执行。
   打开项目文件后，显示的如下结构：
   
-  
+  ![](https://s3.cn-north-1.amazonaws.com.cn/tws-upload/images/1553842653793-4b1828b9-fc39-4419-b6d5-decabd10460a.png)
   
   点击`build.gradle`文件，后：
   
